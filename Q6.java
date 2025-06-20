@@ -1,5 +1,4 @@
 import java.util.*;
-import java.io.*;
 
 class query{
     void nums(int a, int b, int n){
