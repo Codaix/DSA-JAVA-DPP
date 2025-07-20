@@ -6,7 +6,7 @@
 Input a number n. Print the sum of all numbers from 1 to n without using any formula.*/
 import java.util.Scanner;
 
-public class HollowSquareAndSum {
+public class Q17 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
